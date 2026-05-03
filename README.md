@@ -1,7 +1,7 @@
 # 📚 Web Scraper de Livros
 
 Script Python que coleta automaticamente dados de livros 
-da web e exporta para Excel — título, preço, avaliação 
+da web e exporta para Excel - título, preço, avaliação 
 e disponibilidade de 100 livros em segundos.
 
 ## 💡 Funcionalidades
